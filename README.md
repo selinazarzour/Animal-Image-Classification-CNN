@@ -39,13 +39,15 @@ Visual results (loss and accuracy graphs) are available in the `results/` folder
 - Shear
 
 ## 📁 Folder Structure
-.
-├── train_model.py # Main training script
-├── evaluate_model.py # Evaluation and testing script
-├── /images # Sample dataset images
-├── /results # Graphs for accuracy/loss
-└── README.md # This file
 
+```
+.
+├── train_model.py        # Main training script
+├── evaluate_model.py     # Evaluation and testing script
+├── images/               # Sample dataset images
+├── results/              # Graphs for accuracy/loss
+└── README.md             # This file
+```
 
 ## 🚀 Next Steps
 
