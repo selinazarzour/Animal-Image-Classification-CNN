@@ -42,8 +42,8 @@ Visual results (loss and accuracy graphs) are available in the `results/` folder
 
 ```
 .
-├── Animals-10-Classification (week 2) # Main training, evaluation and testing Script
-├── Animals-10-Classification (week 1) # Week 1 training, evaluation and testing Script
+├── Animals-10-Classification (week 2).ipynb # Main training, evaluation and testing Script
+├── Animals-10-Classification (week 2).py # Python forma training, evaluation and testing Script
 ├── results/              # Graphs for accuracy/loss
 └── README.md             # This file
 ```
