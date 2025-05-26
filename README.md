@@ -42,9 +42,8 @@ Visual results (loss and accuracy graphs) are available in the `results/` folder
 
 ```
 .
-├── train_model.py        # Main training script
-├── evaluate_model.py     # Evaluation and testing script
-├── images/               # Sample dataset images
+├── Animals-10-Classification (week 2) # Main training, evaluation and testing Script
+├── Animals-10-Classification (week 1) # Week 1 training, evaluation and testing Script
 ├── results/              # Graphs for accuracy/loss
 └── README.md             # This file
 ```
